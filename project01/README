@@ -1,0 +1,13 @@
+This is the folder with sample usage of your classes.
+
+ex1.cpp - main program
+ex1.out - output produced by this program
+
+Please submit your classes with this program!!!
+
+ex1io1.cpp - main program that reads in Vector3Ds from stdin and outputs their sum
+when used with input1.txt produces output1.txt
+
+ex1io2.cpp - main program that reads in Matrix3Ds from stdin and outputs the result of multiplication of the matrix with itself
+when used with input2.txt produces output2.txt
+

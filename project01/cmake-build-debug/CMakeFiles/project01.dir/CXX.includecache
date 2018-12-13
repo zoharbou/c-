@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Matrix3D.cc
+Matrix3D.h
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Matrix3D.h
+
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Matrix3D.h
+cmath
+-
+Vector3D.h
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Vector3D.h
+
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Vector3D.cc
+cmath
+-
+iostream
+-
+vector
+-
+Vector3D.h
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Vector3D.h
+
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Vector3D.h
+iostream
+-
+
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/tester.cpp
+Vector3D.h
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Vector3D.h
+Matrix3D.h
+C:/Users/Dell/Desktop/school/year2/semester a/c++/project01/Matrix3D.h
+iostream
+-
+sstream
+-
+
