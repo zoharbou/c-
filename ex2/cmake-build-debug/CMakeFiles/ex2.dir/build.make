@@ -57,6 +57,7 @@ include CMakeFiles/ex2.dir/progress.make
 include CMakeFiles/ex2.dir/flags.make
 
 CMakeFiles/ex2.dir/ex2.cpp.obj: CMakeFiles/ex2.dir/flags.make
+CMakeFiles/ex2.dir/ex2.cpp.obj: CMakeFiles/ex2.dir/includes_CXX.rsp
 CMakeFiles/ex2.dir/ex2.cpp.obj: ../ex2.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Dell\Desktop\school\year2\semester a\c++\c-\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ex2.dir/ex2.cpp.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ex2.dir\ex2.cpp.obj -c "C:\Users\Dell\Desktop\school\year2\semester a\c++\c-\ex2\ex2.cpp"
@@ -81,6 +82,7 @@ CMakeFiles/ex2.dir/ex2.cpp.obj.provides.build: CMakeFiles/ex2.dir/ex2.cpp.obj
 
 
 CMakeFiles/ex2.dir/AuthorIdentify.cc.obj: CMakeFiles/ex2.dir/flags.make
+CMakeFiles/ex2.dir/AuthorIdentify.cc.obj: CMakeFiles/ex2.dir/includes_CXX.rsp
 CMakeFiles/ex2.dir/AuthorIdentify.cc.obj: ../AuthorIdentify.cc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Dell\Desktop\school\year2\semester a\c++\c-\ex2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ex2.dir/AuthorIdentify.cc.obj"
 	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ex2.dir\AuthorIdentify.cc.obj -c "C:\Users\Dell\Desktop\school\year2\semester a\c++\c-\ex2\AuthorIdentify.cc"
